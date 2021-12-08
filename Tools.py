@@ -54,7 +54,7 @@ os.system("cd seeker")
 os.system("pip3 install requests")
 
 print("9)EasY_HACk")
-os.system("git clone https://github.com/sabri-zaki/EasY/HACk")
+os.system("git clone https://github.com/sabri-zaki/EasY_HaCk")
 os.system("cd EasY_HACk")
 os.system("bash install.sh")
 
