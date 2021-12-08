@@ -9,8 +9,6 @@ You need to install git to clone the repository. You can do that by executing:
 # pkg install git -y
 Clone this repo by executing:
 git clone https://github.com/BogdanInfinity2078/Install-the-best-tools-in-termux
-Type:
-cd Tools
 To go to the repo directory type cd Install-the-best-packages-in-termux
 To start the script, type:
 python Tools.py
