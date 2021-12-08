@@ -13,4 +13,4 @@ Type:
 #cd Tools
 To go to the repo directory
 To start the script, type:
-#python Tools.py
+python Tools.py
