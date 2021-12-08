@@ -4,14 +4,15 @@ import time
 import sys
 
 os.system("clear")
-print("This tool will install the best tools for termux.")
-print("@GamingOS")
+print("\u001b[34mThis tool will install the best tools for termux")
+print("\u001b[33m@GamingOS")
 
-choice = input("\033[93mDo you want to install the best tools for termux? [y/n] ")
+
+choice = input("\u001b[32mDo you want to install the best tools for termux? [y/n] ")
 if choice == 'n' : sys.exit()
 if choice == 'y' : os.system("apt update && apt upgrade -y")
-print("Please wait,this may take some time")
-print("First, please allow the storage permission")
+print("\u001b[36mPlease wait,this may take some time")
+print("\u001b[36mFirst, please allow the storage permission")
 os.system("termux-setup-storage")
 
 print("1)sqlmap")
