@@ -9,3 +9,8 @@ You need to install git to clone the repository. You can do that by executing:
 # pkg install git -y
 Clone this repo by executing:
 git clone https://github.com/BogdanInfinity2047/Tools.py
+Type
+#cd Tools
+To go to the repo directory
+To start the file, type:
+#python Tools.py
