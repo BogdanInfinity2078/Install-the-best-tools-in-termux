@@ -11,4 +11,5 @@ Clone this repo by executing:
 git clone https://github.com/BogdanInfinity2078/Install-the-best-tools-in-termux
 To go to the repo directory type cd Install-the-best-packages-in-termux
 To start the script, type:
-python Tools.py
+python GamiQS.py
+(The Tools.py file is an older version of the script)
